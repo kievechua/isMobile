@@ -1,6 +1,7 @@
 {
   "name": "ismobilejs",
   "version": "0.3.6",
+  "repository": "kaimallea/isMobile",
   "description": "A simple JS library that detects mobile devices.",
   "keywords": [
     "ismobile",
